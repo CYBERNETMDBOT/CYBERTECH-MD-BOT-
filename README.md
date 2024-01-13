@@ -1,7 +1,7 @@
 # CYBERTECH-MD-BOT-
  <p align="center">  
   <a href="">
-    <img alt="CYBERTECH MD BOT"  src="https://files.fm/f/qqf9v47633">
+    <img alt="CYBERTECH MD BOT" width "600" height "800" src="https://files.fm/f/qqf9v47633">
   </a>
 </p>
 
